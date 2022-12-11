@@ -1,1 +1,1 @@
-*Personal Project - Currently adding more features* 
+*Personal Project - Currently adding more features and more apps* 
