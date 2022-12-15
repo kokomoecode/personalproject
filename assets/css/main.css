@@ -89,6 +89,18 @@ input, select, textarea {
 		margin-bottom: 5%;
 		
 	}
+	
+	#techStack{
+		display: flex;
+		justify-content: space-evenly;
+	}
+
+	#techStack li{
+		list-style: none;
+
+		display: block;
+		padding-bottom: 0.5em;
+	}
 
 
 	.secondSec{
